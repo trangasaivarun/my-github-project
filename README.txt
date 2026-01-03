@@ -3,3 +3,4 @@ Adding new content to the README file
 Temporary change
 Change made on master branch
 Line modified in master branch
+Line modified in feature-A branch
