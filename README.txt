@@ -4,3 +4,4 @@ Temporary change
 Change made on master branch
 Line modified in master branch
 Line modified in feature-A branch
+Temporary change
